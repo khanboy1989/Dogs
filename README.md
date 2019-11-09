@@ -9,6 +9,7 @@ Android JetPack Libaries:
 - ViewModel
 - Lifecycle 
 - Palette
+- Coroutines
 - Data Binding
 - Notifications
 - Navigation 
